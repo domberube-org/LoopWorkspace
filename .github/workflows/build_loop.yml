@@ -186,7 +186,7 @@ jobs:
 
       # Customize Loop: Download and apply patches
       - name: Customize Loop
-        run: |now_line
+        run: |
 
           # LoopWorkspace patches
           # -applies any patches located in the LoopWorkspace/patches/ directory
